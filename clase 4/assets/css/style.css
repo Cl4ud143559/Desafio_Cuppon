@@ -1,0 +1,28 @@
+body{
+font-family: 'Roboto', sans-serif;
+}
+
+.logo {
+    height: 2em;
+}
+.negro {
+    color: #212529;
+}
+
+.gris {
+    color: #707070;
+}
+
+.card-img-top {
+     height: 250px;
+     width: 100%;
+     object-fit: fill;
+}
+.primero {
+    font-size: 16px;
+    padding-top: 5px;
+}
+
+.precio {
+    font-size: 22px;
+}
